@@ -1,2 +1,2 @@
 # psychic-chainsaw
-various learnings
+Various Learnings
