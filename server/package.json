@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/rickoread/psychic-chainsaw/issues"
   },
-  "homepage": "https://github.com/rickoread/psychic-chainsaw#readme"
+  "homepage": "https://github.com/rickoread/psychic-chainsaw#readme",
+  "devDependencies": {
+    "babel-core": "~6.23.1",
+    "babel-preset-es2015-node": "~6.1.1",
+    "babel-preset-stage-0": "~6.22.0"
+  }
 }
