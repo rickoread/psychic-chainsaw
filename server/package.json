@@ -12,5 +12,13 @@
     "experts"
   ],
   "author": "Rick Read <rick.o.read@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickoread/psychic-chainsaw.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rickoread/psychic-chainsaw/issues"
+  },
+  "homepage": "https://github.com/rickoread/psychic-chainsaw#readme"
 }
