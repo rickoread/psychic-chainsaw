@@ -6,7 +6,7 @@ import {logger} from './util';
 app.listen(8080, function() {
   const host = this.address().address;
   const port = this.address().port;
-  logger.log(`Shard listening at http://${host}:${port}`);
+  logger.log(`Experts server listening at http://${host}:${port}`);
 });
 
 // output all uncaught exceptions
