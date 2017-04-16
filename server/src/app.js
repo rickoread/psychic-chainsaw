@@ -6,6 +6,8 @@ import morgan from 'morgan';
 // our packages
 import {logger} from './util';
 
+console.log(logger);
+
 // init app
 const app = express();
 

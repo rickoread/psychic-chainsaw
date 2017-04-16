@@ -4,7 +4,7 @@
   "description": "Experts REST backend",
   "main": "index.js",
   "scripts": {
-    "test": "eslint src/ && babel-node test/"
+    "test": "babel-node test/"
   },
   "keywords": [
     "rest",
