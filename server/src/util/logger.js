@@ -1,6 +1,6 @@
 import winston from 'winston';
 
-export const logger = new winston.Logger({
+export const logger = new winston.Logger({ // eslint-disable-line
   transports: [
     new winston.transports.Console({
       level: process.env.NODE_ENV === 'production' ? 'info' : 'debug',
