@@ -19,12 +19,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rickoread/psychic-chainsaw.git"
+    "url": "git+https://github.com/rickoread/vl.git"
   },
   "bugs": {
-    "url": "https://github.com/rickoread/psychic-chainsaw/issues"
+    "url": "https://github.com/rickoread/vl/issues"
   },
-  "homepage": "https://github.com/rickoread/psychic-chainsaw#readme",
+  "homepage": "https://github.com/rickoread/vl#readme",
   "babel": {
     "presets": [
       "es2015-node",
